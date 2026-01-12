@@ -14,6 +14,47 @@ Snake-Game/
 ├── README.md # Project documentation                                                               
 
 
+---
+
+## 🎮 Features
+
+- 🐍 Smooth snake movement  
+- 🍎 Random food generation  
+- 📈 Live score tracking  
+- 💥 Self-collision reset logic  
+- ⌨️ Keyboard controls  
+- 🖥️ Simple & clean UI  
+
+---
+
+## 🕹️ Controls
+
+| Key | Action |
+|----|-------|
+| ⬆️ Arrow Up | Move Up |
+| ⬇️ Arrow Down | Move Down |
+| ⬅️ Arrow Left | Move Left |
+| ➡️ Arrow Right | Move Right |
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **Pygame**
+- **HTML5** (basic web file)
+
+---
+
+## ▶️ How to Run the Game (Python)
+
+1. Install Python  
+   👉 https://www.python.org/downloads/
+
+2. Install Pygame:
+   ```bash
+   pip install pygame
+
 
 
 
