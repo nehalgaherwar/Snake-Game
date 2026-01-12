@@ -96,8 +96,9 @@ The game resets when the snake collides with itself or the boundaries.
 =======
 # from HTML 
 
+clone the repo with :- git clone https://github.com/nehalgaherwar/Snake-Game.git
 
-
+run in crome and play
 
 =======
 # Snake-Game
