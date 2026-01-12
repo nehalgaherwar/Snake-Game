@@ -1,3 +1,20 @@
+# 🐍 Snake Game
+
+A classic **Snake Game** built using **Python & Pygame**, with an additional **HTML file** included for web reference or future expansion 🌐🎮  
+
+This project is beginner-friendly and perfect for learning **game loops, collision detection, keyboard handling, and rendering**.
+
+---
+
+## 📁 Project Structure
+
+
+
+
+
+
+
+
 A simple Snake game implemented in Python using Pygame.
 
 ## Requirements
