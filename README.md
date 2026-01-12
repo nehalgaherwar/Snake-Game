@@ -46,7 +46,9 @@ Snake-Game/
 
 ---
 
-## ▶️ How to Run the Game (Python)
+## ▶️ How to Run the Game (Python)/web (HTML)
+
+# from Python
 
 1. Install Python  
    👉 https://www.python.org/downloads/
@@ -90,6 +92,13 @@ Run the game with: `python snake.py`
 ## Game Over
 
 The game resets when the snake collides with itself or the boundaries.
+
+=======
+# from HTML 
+
+
+
+
 =======
 # Snake-Game
 
