@@ -1,1 +1,52 @@
+A simple Snake game implemented in Python using Pygame.
+
+## Requirements
+
+- Python 3.x
+- Pygame
+
+## Setup
+
+1. Clone or download the repository.
+2. Navigate to the Snake-Game directory.
+3. Create a virtual environment: `python -m venv venv`
+4. Activate the virtual environment:
+   - On Windows: `venv\Scripts\activate`
+   - On macOS/Linux: `source venv/bin/activate`
+5. Install dependencies: `pip install -r requirements.txt`
+
+## Running the Game
+
+Run the game with: `python snake.py`
+
+## Controls
+
+- Use arrow keys to control the snake.
+- Eat the red food to grow and increase score.
+- Avoid hitting the walls or yourself.
+
+## Game Over
+
+The game resets when the snake collides with itself or the boundaries.
+=======
 # Snake-Game
+
+A simple Snake game implemented in HTML, CSS, and JavaScript.
+
+## How to Play
+
+1. Open `index.html` in your web browser.
+2. Click the "Start Game" button to begin.
+3. Use the arrow keys to control the snake.
+4. Eat the red food to grow and increase your score.
+5. Avoid hitting the walls or the snake's own body.
+
+## Game Over
+
+The game ends when the snake collides with the walls or itself. Your score will be displayed, and you can start a new game.
+
+## Files
+
+- `index.html`: The main HTML file
+- `style.css`: CSS styles for the game
+- `script.js`: JavaScript game logic
