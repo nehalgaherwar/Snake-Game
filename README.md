@@ -7,7 +7,11 @@ This project is beginner-friendly and perfect for learning **game loops, collisi
 ---
 
 ## 📁 Project Structure
-
+Snake-Game/                                    
+│                                                                                                      
+├── snake.py # Main Python game file (Pygame)                                                                  
+├── index.html # HTML file (UI / Web version / Info page)                                                
+├── README.md # Project documentation                                                               
 
 
 
